@@ -1,3 +1,6 @@
+![1](https://github.com/user-attachments/assets/8f3a9bdd-42a8-4fce-a115-53dda2689502)
+
+
 # 💫 About Me:
 🚀 I'm currently working on<br>Building a finance data dashboard using Power BI and working on a research project titled "Satellite Image Analytics for Tree Enumeration."<br>🤝 I'm looking to collaborate on<br>Data analytics projects, machine learning models, and dashboard creation using Power BI.<br>🛠️ I'm looking for help with<br>Optimizing data pipelines, real-time data processing, and advanced machine learning techniques.<br>🌱 I'm currently learning<br>Data analytics with understanding the concepts of data, understanding databases, learning data manipulation techniques using python.<br>💬 Ask me about<br>Data visualization, Python for data analytics, Power BI, SQL, and dashboard design.<br>⚡ Fun fact<br>I love uncovering hidden patterns in data just like solving puzzles! 🧩📊<br>
 
