@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/8f3a9bdd-42a8-4fce-a115-53dda2689502)
+![Banner_linkdin](https://github.com/user-attachments/assets/309b14cf-5f69-47c1-a893-e0cd6068c1c2)
 
 
 # 💫 About Me:
