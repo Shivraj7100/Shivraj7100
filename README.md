@@ -1,9 +1,8 @@
 ![Banner_linkdin](https://github.com/user-attachments/assets/309b14cf-5f69-47c1-a893-e0cd6068c1c2)
-###  📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge)](https://github.com/Shivraj7100/Resume/blob/main/SHIVRAJ_JADHAV_Resume.pdf)
-### 📄 Cover Letter
 
-[![Download Cover Letter](https://img.shields.io/badge/Download-Cover%20Letter-blue?style=for-the-badge&logo=adobeacrobatreader)](your-cover-letter.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge)](https://github.com/Shivraj7100/Resume/blob/main/SHIVRAJ_JADHAV_Resume.pdf)
+
+[![Download Cover Letter](https://img.shields.io/badge/Download-Cover%20Letter-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Shivraj7100/Resume/blob/main/cover%20letter.pdf)
 
 
 
